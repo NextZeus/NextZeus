@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on node.js Go
 - 🌱 I’m currently learning Java SpringBoot Dubbo
-- 📫 How to reach me: ㊙️
-- ⚡ Fun fact: 
+- 📫 How to reach me: [Hi, I`m Here](nextzeus.github.io)
+
 
 <img src="https://github-profile-trophy.vercel.app/?username=nextzeus&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
